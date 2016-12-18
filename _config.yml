@@ -17,7 +17,7 @@ title: Nischal Gautam
 email: nischal1024@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Tech Enthusiast, Human , Ruby on Rails developer. I blog about Javascript, Ruby, Rails and Life.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nischal012
 github_username:  ngprnk
